@@ -8,7 +8,7 @@ Currently, the code does:
 
 Generate a summary of the training data, which can be found in GRIP-Study-Hour-Linear-Regression-Prediction/out/data_summary.jpg, and an overview in the Google Colab GRIP-Study-Hour-Linear-Regression-Prediction/out/study_hours_vs_percentage.jpg.
 
-The data is trained on the linear Regression model, and the regression line plotting is shown in the GRIP-Study-Hour-Linear-Regression-Prediction/out/study_hours_vs_percentage_with_regression_line.jpg 
+The data is trained on the linear Regression model, and the regression line plotting is shown in the GRIP-Study-Hour-Linear-Regression-Prediction/out/study_hours_vs_percentage_with_regression_line.jpg. 
 
 The comparison of the data results can be seen under: GRIP-Study-Hour-Linear-Regression-Prediction/out/Comparison_Actual_vs_Predicted_data.jpg.
 
